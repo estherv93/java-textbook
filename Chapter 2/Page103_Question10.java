@@ -1,8 +1,10 @@
 // Question Summary: Write the code to display a dialog box that asks...
 
 import javax.swing.JOptionPane;
-public class Page103_Question10 {
-	public static void main(String[] args) {
+public class Page103_Question10
+{
+	public static void main(String[] args)
+	{
 		String inputString;
 		double annualIncome;
 		

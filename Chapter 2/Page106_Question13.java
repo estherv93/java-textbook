@@ -2,9 +2,11 @@
 
 import javax.swing.JOptionPane;
 
-public class Page106_Question13 {
+public class Page106_Question13
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		
 		String inputString, name, city, college, profession, animal, petname;
 		int age;
