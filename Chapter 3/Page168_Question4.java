@@ -5,12 +5,7 @@ public class Page168_Question4 {
 	public static void main(String[] args)
 	{
 		
-		// For me to see if this all works:
-		int score = 100;
-		char grade;
-		
-		// NOTE: this is the question copied from the book.
-		// It hasn't been answered yet
+		// NOTE: this isn't answered yet. 
 		
 		switch (score)
 		{
