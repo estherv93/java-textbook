@@ -1,6 +1,6 @@
-import javax.swing.JOptionPane;
-
 // Question summary : The area of the rectangle...
+
+import javax.swing.JOptionPane;
 
 public class Page171_Question3
 {
