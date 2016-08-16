@@ -13,5 +13,7 @@ public class Page103_Question9
 		desiredIncome = keyboard.nextDouble();
 		
 		System.out.println("Your desired annual income is " + desiredIncome);
+		
+		keyboard.close();
 	}
 }
