@@ -21,7 +21,7 @@ Write a program that allows the user to input the radius of the well casing in i
 (a typical well will have a 3-inch radius) and the depth of the well in feet 
 (assume water will fill this entire depth, although in practice that will not be true 
 since the static water level will generally be 50 feet or more below the ground surface).  
-The program should output the number of gallons stored in the well casing.  For your reference:
+The program should output the number of gallons stored in the well casing. For your reference:
  
 The volume of a cylinder is pr2h, where r is the radius and h is the height. 
 1 cubic foot = 7.48 gallons of water.
