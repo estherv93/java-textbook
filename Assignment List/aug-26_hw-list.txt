@@ -1,0 +1,10 @@
+6. Create a program that will find out if a number is perfect or not.
+
+7. Allow the user to enter 10 numbers and count the number of positive, 
+negative and zeroes entered.  Display the percentage of positives, 
+negatives and zeroes entered using a bar chart.
+
+8. Write a program that prompts the user for an integer and then 
+determines the additive persistence and corresponding additive root.
+
+9. Allow the user to enter the base and exponent and calculate base exponent. 
