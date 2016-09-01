@@ -1,7 +1,5 @@
 // Question Summary: Page 338 - #1 (Employee Class)
 
-package homework;
-
 public class Employee {
 
 	private String name;
