@@ -1,7 +1,5 @@
 // Question Summary: Page 338 - #2 (Car Class)
 
-package homework;
-
 public class Car {
 
 	private int yearModel;
